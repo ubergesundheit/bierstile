@@ -1,0 +1,7 @@
+Zurück zum main
+git checkout main
+
+Branch mergen
+git merge add-weizen
+
+

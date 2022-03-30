@@ -1,0 +1,11 @@
+Neuen branch erstellen
+git checkout -b add-pils
+
+Datei bearbeiten
+nano bierstile.yaml
+
+Änderungen übernehmen
+git add bierstile.yaml
+
+Commit erstellen
+git commit -m "Add pils to helle bierstile"
